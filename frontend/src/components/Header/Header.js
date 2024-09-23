@@ -18,7 +18,7 @@ export default function Header() {
         <header className={classes.header}>
             <div className={classes.container}>
                 <Link to="/" className={classes.logo}>
-                    Стари съкровища
+                    Съкровища от миналото
                 </Link>
                 <nav>
                     <ul>

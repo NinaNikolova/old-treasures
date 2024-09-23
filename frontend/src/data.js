@@ -62,9 +62,10 @@ export const sample_antiques = [
 ];
 
 export const sample_tags = [
-    { name: 'всички', count: 4 },
+    { name: 'всички', count: 5 },
     { name: 'плоча', count: 4 },
     { name: 'музика', count: 4 },
     { name: 'класическа', count: 2 },
     { name: 'поп', count: 2 },
+    { name: 'грамофон', count: 1 },
 ]
